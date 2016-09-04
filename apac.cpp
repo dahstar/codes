@@ -1,4 +1,4 @@
-﻿#include <bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 string newline(string line)
 {
@@ -32,4 +32,5 @@ int main(){
 
 	return 0;
 }
+
 
