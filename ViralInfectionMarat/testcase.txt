@@ -1,0 +1,4 @@
+seed = 1
+NStar = 20
+NShip = 1
+NUfo = 4
