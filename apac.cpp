@@ -29,9 +29,12 @@ int main(){
 	  getline(cin,line);
 		cout<<newline(line)<<endl;
 	}
-//new file tested
+//new file tested   2
 	return 0;
 }
+
+
+
 
 
 
