@@ -2,6 +2,7 @@
 using namespace std;   
 int main()
 { 
+	//string search
 	string s, t;
     cin>>s>>t;
     int len = 0, pos=0;
@@ -11,7 +12,6 @@ int main()
         if(s[len]==t[pos]) {
             len++;
         }
-
         pos++;
     }
     cout<<len<<endl;
